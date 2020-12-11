@@ -7,3 +7,5 @@
 - 💬 Ask me about Java
 - 📫 How to reach me: Bendi#2924 on Discord
 - ⚡ Fun fact: i love fun facts.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bendimester23&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
