@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://raw.githubusercontent.com/Bendimester23/bendimester23/master/bendi.png)
+
 - 🔭 I’m currently working on a new modding platform for Minecraft Java Edition
 - 🌱 I’m currently learning Programming and LWJGL
 - 👯 I’m looking to collaborate on anyting wiht Java || Minecraft
