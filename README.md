@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://raw.githubusercontent.com/Bendimester23/bendimester23/master/bendi.png)
+![](https://raw.githubusercontent.com/Bendimester23/bendimester23/master/bendi2.png)
 
 - 🔭 I’m currently working on a new modding platform for Minecraft Java Edition
 - 🌱 I’m currently learning Programming and LWJGL
