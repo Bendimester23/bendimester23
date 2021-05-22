@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/Bendimester23/bendimester23/master/bendi2.png)
 
-- 🔭 I’m currently working on a new modding platform for Minecraft Java Edition
+- 🔭 I’m currently working on a SkyVillage && EdwardBot
 - 🌱 I’m currently learning Programming and LWJGL
 - 👯 I’m looking to collaborate on anyting wiht Java || Minecraft
 - 🤔 I’m looking for help with GLSL
