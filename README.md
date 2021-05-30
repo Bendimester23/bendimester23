@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a SkyVillage && EdwardBot
 - 🌱 I’m currently learning Programming and LWJGL
-- 👯 I’m looking to collaborate on anyting wiht Java || Minecraft
+- 👯 I’m looking to collaborate on anything with Java || Minecraft
 - 🤔 I’m looking for help with GLSL
 - 💬 Ask me about Java
 - 📫 How to reach me: Bendi#2924 on Discord
